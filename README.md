@@ -1,3 +1,6 @@
+This React and Django Rest Framework (DRF) web app focuses on a subscription module for XYZ Enterprises.
+
+HOW TO RUN:
 for django:
 1. install requirements.txt: python -m pip install -r requirements.txt
 2. python manage.py runserver
